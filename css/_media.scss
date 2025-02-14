@@ -1,0 +1,96 @@
+@media (min-width: 1640px) {
+  .container {
+    max-width: 1580px;
+  }
+}
+@media (max-width: 1199px) {
+  .logo-img2 {
+    width: 285px;
+    margin-bottom: 25px !important;
+  }
+  .logo-img1 {
+    width: 120px;
+  }
+  .upper-bg .btn-grp {
+    margin-bottom: 25px;
+  }
+  .upper-bg .pre-txt {
+    margin: 20px 0 16px;
+  }
+  .upper-bg .bnr-card-info-wrap .card-info .card-para {
+    font-size: 16px;
+  }
+  .upper-bg .bnr-card-info-wrap .card-info .btn-blk .request-btn {
+    font-size: 14px;
+  }
+  .upper-bg .bnr-card-info-wrap .card-info .card-para span.card-cal img {
+    width: 15px;
+  }
+  .upper-bg .bnr-card-info-wrap .card-info .card-para span.card-loc img {
+    width: 12px;
+  }
+}
+@media (max-width: 767px) {
+  .logo-img1 {
+    width: 100px;
+  }
+  .upper-bg .pre-txt {
+    margin: 15px 0 13px;
+  }
+  .logo-img2 {
+    width: 230px;
+    margin-bottom: 20px !important;
+  }
+  .upper-bg .btn-grp {
+    margin-bottom: 20px;
+  }
+  .upper-bg .bnr-card-info-wrap .card-info h1 {
+    font-size: 26px;
+  }
+  .upper-bg .bnr-card-info-wrap .card-info {
+    max-width: 400px;
+  }
+}
+
+@media (max-width: 575px) {
+  .logo-img1 {
+    width: 80px;
+  }
+  .upper-bg .pre-txt {
+    margin: 13px 0 11px;
+    font-size: 14px;
+  }
+  .logo-img2 {
+    width: 180px;
+    margin-bottom: 18px !important;
+  }
+  .upper-bg .btn-grp .grp-bt {
+    font-size: 12px;
+  }
+  .upper-bg .btn-grp {
+    margin-bottom: 18px;
+  }
+  .upper-bg .bnr-card-info-wrap .card-info h1 {
+    font-size: 22px;
+  }
+  .upper-bg .bnr-card-info-wrap .card-info {
+    max-width: 350px;
+  }
+  .upper-bg .bnr-card-info-wrap .card-info .card-para {
+    font-size: 14px;
+  }
+  .upper-bg .bnr-card-info-wrap .card-info .separator {
+    margin: 12px auto;
+  }
+  .upper-bg .bnr-card-info-wrap .card-info .btn-blk .request-btn {
+    font-size: 12px;
+  }
+}
+@media (max-width: 410px) {
+  .upper-bg .bnr-card-info-wrap .card-info h1 {
+    font-size: 18px;
+  }
+  .logo-img2 {
+    width: 165px;
+  }
+}
